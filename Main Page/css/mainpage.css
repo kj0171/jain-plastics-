@@ -1,0 +1,51 @@
+.container
+{
+	position:absolute;
+	top:0px;
+	
+}
+
+.b1
+{
+	position:relative ;
+	padding-top:10px;
+}
+
+.b2
+{
+	position :relative ;
+	padding:10px;
+}
+
+.b3
+{
+	position:relative ;
+	padding-top:5px;
+	font-size:100px;
+    	
+}
+
+.log
+{	position:relative ;
+
+	right:65px;
+
+	
+}
+.side
+{
+	position:relative;
+	
+}
+
+
+.bbox {
+	 
+ position:absolute;
+ background-color: rgba(189,189,189,0.6);
+ left:0px;
+ top:0px;
+ height:370px;
+ border-radius:10px;
+ width: 200px;
+ }

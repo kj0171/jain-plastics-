@@ -1,0 +1,36 @@
+
+ #map {
+	 position:absolute;
+        height: 400px;
+        width: 100%;
+       }
+	   
+	   
+	   .line
+	   {
+    
+    width: 2px;
+    height: 230px;
+    background-color: #000000;
+    opacity: 0.6;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    position:relative;
+	left:80px;
+	   }
+	   
+	   
+	@font-face {
+   font-family:AB;
+   src:url(fonts/AB.otf);
+}   
+
+.info
+{
+	font-family:AB;
+}
+
+.section
+{
+	text-align:center;
+}
